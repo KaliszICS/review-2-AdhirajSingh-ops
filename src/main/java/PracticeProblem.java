@@ -56,7 +56,6 @@ public class PracticeProblem {
         int number3 = s.nextInt();
         System.out.println(number3 * 5);
         s.close();
-
 	}
 
 	public static void q5() {
